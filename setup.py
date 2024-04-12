@@ -13,7 +13,7 @@ if __name__ == "__main__":
         license='MIT',
         author_email='info@pythagora.ai',
         description='GPT Pilot - an AI developer that works with you to build complex projects',
-        long_description=open('README.md').read(),
+        # long_description=open('README.md').read(),
         long_description_content_type='text/markdown',
         classifiers=[
             'Development Status :: 3 - Alpha',
